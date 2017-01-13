@@ -1,0 +1,25 @@
+Flight 1: Los Angeles, Dallas (Time)
+Path 1: Los Angeles -> Chicago -> Austin -> Dallas. Time: 560 Cost: 365.00
+Path 2: Los Angeles -> New York -> Dallas. Time: 571 Cost: 422.00
+Path 3: Los Angeles -> Chicago -> Austin -> Houston -> Dallas. Time: 603 Cost: 463.00
+
+Flight 2: New York, Houston (Cost)
+Path 1: New York -> Dallas -> Houston. Time: 273 Cost: 256.00
+Path 2: New York -> Austin -> Houston. Time: 271 Cost: 274.00
+Path 3: New York -> Atlanta -> Houston. Time: 308 Cost: 298.00
+
+Flight 3: Austin, Atlanta (Time)
+Path 1: Austin -> Dallas -> Atlanta. Time: 143 Cost: 187.00
+Path 2: Austin -> Houston -> Atlanta. Time: 160 Cost: 227.00
+Path 3: Austin -> Houston -> Dallas -> Atlanta. Time: 186 Cost: 285.00
+
+Flight 4: Chicago, New York (Time)
+Path 1: Chicago -> Atlanta -> New York. Time: 389 Cost: 287.00
+Path 2: Chicago -> Austin -> New York. Time: 424 Cost: 323.00
+Path 3: Chicago -> Austin -> Dallas -> New York. Time: 461 Cost: 397.00
+
+Flight 5: Los Angeles, Austin (Cost)
+Path 1: Los Angeles -> Chicago -> Austin. Time: 513 Cost: 267.00
+Path 2: Los Angeles -> Chicago -> Atlanta -> Dallas -> Austin. Time: 666 Cost: 431.00
+Path 3: Los Angeles -> New York -> Austin. Time: 581 Cost: 446.00
+

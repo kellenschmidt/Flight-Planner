@@ -1,0 +1,24 @@
+12
+
+Dallas|Austin|98|47
+
+Austin|Houston|95|39
+
+Dallas|Houston|101|51
+
+Austin|Chicago|144|192
+
+Chicago|Atlanta|121|202
+
+Atlanta|Houston|132|121
+
+Dallas|Atlanta|89|96
+Austin|New York|179|232
+
+Atlanta|New York|166|187
+
+New York|Dallas|155|222
+
+Chicago|Los Angeles|123|321
+
+New York|Los Angeles|267|349

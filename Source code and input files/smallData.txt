@@ -1,0 +1,9 @@
+4
+
+Dallas|Austin|98|47
+
+Austin|Houston|95|39
+
+Dallas|Houston|101|51
+
+Austin|Chicago|144|192

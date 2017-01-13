@@ -1,0 +1,53 @@
+26
+
+Los Angeles|New York|1000|400
+
+Los Angeles|Denver|200|60
+
+Los Angeles|Chicago|500|240
+
+Los Angeles|Dallas|300|150
+
+Los Angeles|Atlanta|500|320
+
+Denver|Seattle|200|100
+
+Denver|Boise|100|40
+
+Denver|Phoenix|150|100
+
+Denver|Bloomington|300|140
+
+Dallas|Phoenix|200|75
+
+Dallas|Miami|300|130
+
+Dallas|Houston|80|35
+
+Dallas|Bloomington|200|120
+
+Chicago|Dallas|350|120
+
+Chicago|Bloomington|135|35
+
+Chicago|Nashville|225|80
+
+Chicago|New York|200|240
+
+New York|D.C.|135|35
+
+Atlanta|Houston|200|100
+
+Atlanta|Dallas|250|85
+
+Atlanta|Nashville|150|40
+
+Atlanta|Chicago|450|120
+
+Atlanta|New York|300|120
+
+Atlanta|D.C.|200|65
+
+Atlanta|Miami|250|100
+
+Raleigh|San Diego|987|234

@@ -1,0 +1,58 @@
+Flight 1: Los Angeles, Miami (Cost)
+Path 1: Los Angeles -> Dallas -> Miami. Time: 280 Cost: 600.00
+Path 2: Los Angeles -> Atlanta -> Miami. Time: 420 Cost: 750.00
+Path 3: Los Angeles -> Dallas -> Atlanta -> Miami. Time: 335 Cost: 800.00
+
+Flight 2: Boise, D.C. (Time)
+Path 1: Boise -> Denver -> Phoenix -> Dallas -> Atlanta -> D.C.. Time: 365 Cost: 900.00
+Path 2: Boise -> Denver -> Los Angeles -> Dallas -> Atlanta -> D.C.. Time: 400 Cost: 1050.00
+Path 3: Boise -> Denver -> Bloomington -> Chicago -> Nashville -> Atlanta -> D.C.. Time: 400 Cost: 1110.00
+
+Flight 3: Denver, Nashville (Cost)
+Path 1: Denver -> Bloomington -> Chicago -> Nashville. Time: 255 Cost: 660.00
+Path 2: Denver -> Phoenix -> Dallas -> Atlanta -> Nashville. Time: 300 Cost: 750.00
+Path 3: Denver -> Phoenix -> Dallas -> Houston -> Atlanta -> Nashville. Time: 350 Cost: 780.00
+
+Flight 4: Seattle, New York (Cost)
+Path 1: Seattle -> Denver -> Bloomington -> Chicago -> New York. Time: 515 Cost: 835.00
+Path 2: Seattle -> Denver -> Phoenix -> Dallas -> Bloomington -> Chicago -> New York. Time: 670 Cost: 1085.00
+Path 3: Seattle -> Denver -> Los Angeles -> Chicago -> New York. Time: 640 Cost: 1100.00
+
+Flight 5: Dallas, Bloomington (Time)
+Path 1: Dallas -> Bloomington. Time: 120 Cost: 200.00
+Path 2: Dallas -> Chicago -> Bloomington. Time: 155 Cost: 485.00
+Path 3: Dallas -> Atlanta -> Nashville -> Chicago -> Bloomington. Time: 240 Cost: 760.00
+
+Flight 6: D.C., Phoenix (Cost)
+Path 1: D.C. -> Atlanta -> Dallas -> Phoenix. Time: 225 Cost: 650.00
+Path 2: D.C. -> Atlanta -> Houston -> Dallas -> Phoenix. Time: 275 Cost: 680.00
+Path 3: D.C. -> New York -> Chicago -> Bloomington -> Dallas -> Phoenix. Time: 505 Cost: 870.00
+
+Flight 7: Houston, Los Angeles (Cost)
+Path 1: Houston -> Dallas -> Los Angeles. Time: 185 Cost: 380.00
+Path 2: Houston -> Dallas -> Phoenix -> Denver -> Los Angeles. Time: 270 Cost: 630.00
+Path 3: Houston -> Atlanta -> Los Angeles. Time: 420 Cost: 700.00
+
+Flight 8: Bloomington, Atlanta (Time)
+Path 1: Bloomington -> Chicago -> Nashville -> Atlanta. Time: 155 Cost: 510.00
+Path 2: Bloomington -> Chicago -> Atlanta. Time: 155 Cost: 585.00
+Path 3: Bloomington -> Dallas -> Atlanta. Time: 205 Cost: 450.00
+
+Flight 9: Nashville, Dallas (Time)
+Path 1: Nashville -> Atlanta -> Dallas. Time: 125 Cost: 400.00
+Path 2: Nashville -> Atlanta -> Houston -> Dallas. Time: 175 Cost: 430.00
+Path 3: Nashville -> Chicago -> Dallas. Time: 200 Cost: 575.00
+
+Flight 10: Chicago, Boise (Time)
+Path 1: Chicago -> Bloomington -> Denver -> Boise. Time: 215 Cost: 535.00
+Path 2: Chicago -> Dallas -> Phoenix -> Denver -> Boise. Time: 335 Cost: 800.00
+Path 3: Chicago -> Los Angeles -> Denver -> Boise. Time: 340 Cost: 800.00
+
+Flight 11: Phoenix, Miami (Time)
+Path 1: Phoenix -> Dallas -> Miami. Time: 205 Cost: 500.00
+Path 2: Phoenix -> Dallas -> Atlanta -> Miami. Time: 260 Cost: 700.00
+Path 3: Phoenix -> Dallas -> Houston -> Atlanta -> Miami. Time: 310 Cost: 730.00
+
+Flight 12: Raleigh, Boise (Cost)
+No routes found.
+
