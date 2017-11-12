@@ -75,6 +75,10 @@ void FlightPlanner::readFlightPlans(string fileName)
         getline(inFlightPlans, origin, '|');
         getline(inFlightPlans, destination, '|');
         getline(inFlightPlans, sortType, '\n');
+        // If newline character is captured then remove
+        if(sortType.length() > 1) {
+            sortType = sortType[0];
+        }
         // Create FlightPlan object from for the data
         FlightPlan fp(origin, destination, sortType);
         // Perform iterative backtracking to find routes
