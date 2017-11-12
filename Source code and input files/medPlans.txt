@@ -1,11 +1,6 @@
 5
-
 Los Angeles|Dallas|T
-
 New York|Houston|C
-
 Austin|Atlanta|T
-
 Chicago|New York|T
-
 Los Angeles|Austin|C

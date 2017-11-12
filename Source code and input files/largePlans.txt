@@ -1,25 +1,13 @@
 12
-
 Los Angeles|Miami|C
-
 Boise|D.C.|T
-
 Denver|Nashville|C
-
 Seattle|New York|C
-
 Dallas|Bloomington|T
-
 D.C.|Phoenix|C
-
 Houston|Los Angeles|C
-
 Bloomington|Atlanta|T
-
 Nashville|Dallas|T
-
 Chicago|Boise|T
-
 Phoenix|Miami|T
-
 Raleigh|Boise|C
